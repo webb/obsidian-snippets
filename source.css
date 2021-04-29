@@ -1,0 +1,9 @@
+.cm-header {
+    font-size: 12pt !important;
+}
+pre.CodeMirror-line {
+    padding-top:4pt !important;
+}
+.CodeMirror {
+    font-family: Inconsolata !important;
+}
