@@ -6,4 +6,11 @@ pre.CodeMirror-line {
 }
 .CodeMirror {
     font-family: Inconsolata !important;
+    font-size: 10pt !important;
+}
+pre.HyperMD-codeblock.CodeMirror-line {
+    padding-top: 0 !important;
+}
+span.cm-blockid {
+    font-size: 12pt !important;
 }

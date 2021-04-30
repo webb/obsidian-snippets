@@ -1,9 +1,26 @@
 h1, h2, h3, h4, h5, h6 {
   font-size: 12pt !important;
+  margin-top: 0 !important;;
+  margin-bottom: 0 !important;;
 }
 .markdown-preview-view {
-    font-family: Helvetica;
+//    font-family: Helvetica;
+    font-family: "Times New Roman";
 }
 .markdown-preview-view pre code {
     font-family: Inconsolata;
+    line-height: 1em !important;
+    font-size: 12pt;
+}
+.markdown-preview-view ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.markdown-preview-view ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.markdown-preview-view p {
+    margin-top: 4pt;
+    margin-bottom: 4pt;
 }

@@ -1,0 +1,11 @@
+div.nav-file-title-content, div.nav-folder-title-content {
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 1em;
+    font-family: Verdana;
+    font-size: 10pt;
+}
+div.nav-file-title, div.nav-folder-title {
+    padding-top: 0;
+    padding-bottom: 0;
+}
