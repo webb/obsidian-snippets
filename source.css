@@ -2,7 +2,9 @@
     font-size: 12pt !important;
 }
 pre.CodeMirror-line {
-    padding-top:4pt !important;
+//    padding-top:4pt !important;
+    padding-top:0.3em !important;
+    line-height: 1em !important;
 }
 .CodeMirror {
     font-family: Inconsolata !important;
@@ -12,5 +14,7 @@ pre.HyperMD-codeblock.CodeMirror-line {
     padding-top: 0 !important;
 }
 span.cm-blockid {
-    font-size: 12pt !important;
+    font-size: 10pt !important;
+    font-family: Inconsolata !important;
+    vertical-align: baseline !important;
 }
