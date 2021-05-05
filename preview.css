@@ -25,3 +25,12 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 4pt;
     line-height: 1em;
 }
+.markdown-preview-view div.markdown-embed {
+    margin-top: 0;
+    margin-bottom: 0;
+    border-style: none;
+    background-color: #eee;
+}
+.markdown-preview-view div.markdown-preview-view {
+    padding: 20px 10px 10px 10px;
+}
